@@ -55,6 +55,7 @@ static const struct kernel_offsets known_offsets[] = {
 #include "6.6.89-android15-8-g8e4be6b47e40-ab14134548-4k/offsets.h"
 #include "6.6.89-android15-8-g096cdb6ecefc-ab14358676-4k/offsets.h"
 #include "6.6.89-android15-8-gf4dc45704e54-abogki446052083-4k/offsets.h"
+#include "6.6.89-android15-8-g7e1f3c083cc6-abogki467167594-4k/offsets.h"
 #include "6.6.102-android15-8-gb01b41c2647c-ab15574720-4k/offsets.h"
 #include "6.6.102-android15-8-gfe76d1bc97fd-ab14689815-4k/offsets.h"
 #include "6.6.118-android15-8-g2e6b9c3812c5-ab15114928-4k/offsets.h"
